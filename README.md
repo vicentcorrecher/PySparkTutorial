@@ -1,6 +1,9 @@
-# Masterclass: Spark para Data Engineers en Databricks
+<p align="center">
+  <img src="8-oRjeGfQqO8kwZFzqlxpw.webp" style="width: 550px;">
+  
+</p>
 
-
+# Masterclass: Spark en Databricks
 
 ## Objetivo
 Aprender a usar PySpark en Databricks para procesar datos a gran escala con DataFrames, Delta Lake, optimización de consultas y particionamiento.
