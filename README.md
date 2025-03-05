@@ -8,6 +8,10 @@
 ## Objetivo
 Aprender a usar PySpark en Databricks para procesar datos a gran escala con DataFrames, Delta Lake, optimización de consultas y particionamiento.
 
+ ## Descarga la masterclass
+[Click aquí para descargar](https://github.com/vicentcorrecher/PySparkTutorial/blob/main/Data%20Engineering%20with%20PySpark.html)
+
+
 ## Contenido
 
 ### 1. Introducción a PySpark en Databricks
